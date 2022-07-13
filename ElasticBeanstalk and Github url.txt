@@ -1,0 +1,4 @@
+ELASTIC BEANSTALK URL: http://image-filtering.us-east-1.elasticbeanstalk.com/
+
+GITHUB REPOSITORY:
+https://github.com/danaasa/image-filter-starter-code
